@@ -1,6 +1,6 @@
 # Valentin Stukov
 * Student
-## About myself
+# About myself
 I am looking forward to get new profession. Days ago I did blogging and made online shops, so I decided to return to that work.
 I have no much experience, but I hope to get it here in RsSchool. 
 
