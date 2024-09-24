@@ -24,14 +24,15 @@ combineNames();
 
 * Yaroslav-the-Wise _Novgorod State University_
 * Ivanovo State University of Chemistry and Technology
-* [FreeCodeCapm][fcc]
+* https://freecodecamp.org
+
 
 # Contacts
 * telegram: @teletinych
+
 # Languages
 * Russian - native
 * English - immediate
 * German - basic
 * Georgian - basic
   
-[fcc][https://freecodecamp.org]
