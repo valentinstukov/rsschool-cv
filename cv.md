@@ -1,8 +1,9 @@
-<! DOCTYPE html>
-<html>
-<title>Valentin Stukov's CV</title>
-<meta aria-description="My experience, pros and cons">
+<!DOCTYPE html>
+<html lang="en">
 <head>
+
+<title>Valentin Stukov CV</title>
+<meta aria-description="My experience, pros and cons">
 </head>
 <body>
 </body>
