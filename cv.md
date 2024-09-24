@@ -1,11 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
-<title>Valentin Stukov CV</title>
-<meta aria-description="My experience, pros and cons">
-</head>
-<body>
-</body>
-</html>
-
+* Элемент списка 1
+* Элемент списка 2
+    + Элемент второго уровня списка 1
+    + Элемент второго уровня списка 2
+        - Элемент третьего уровня списка 1
+        - Элемент третьего уровня списка 2
+        - Элемент третьего уровня списка 3
