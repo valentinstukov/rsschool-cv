@@ -10,20 +10,17 @@ I have no much experience, but I hope to get it here in RsSchool.
 * JS, Basics
 * Git, GitHub
 * WepStorm
-* git 
-* Photoshop
+* git
 ---
 ## Code Example
 ```
 const first = 'Val';
 const last = 'Stuk';
-
 function combineNames (first, last) {
 return first + " " + last;
 }
 combineNames();
 ```
-
 ## Languages
 * Russian - native
 * English - immediate
