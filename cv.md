@@ -19,12 +19,24 @@ I have no much experience, but I hope to get it here in RsSchool.
 
 # Code Example
 ```
-const first = 'Val';
-const last = 'Stuk';
-function combineNames (first, last) {
-return first + " " + last;
+const quarterOf = (month) => {
+  const quarter = Math.ceil(month/3);
+  return quarter;  
 }
-combineNames();
+quarterOf()
+
+/* another code from codewars: */
+
+function capitalizeWord(word) {
+  const upperword = word[0].toUpperCase() + word.slice(1);
+  return upperword;
+}
+
+/* another code from codewars: */
+
+function century(year) {
+  return Math.ceil(year/100);
+}
 ```
 # Education
 
