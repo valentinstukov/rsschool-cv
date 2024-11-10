@@ -1,5 +1,5 @@
 # Valentin Stukov
-![Me](https://github.com/valentinstukov/rsschool-cv/blob/gh-pages/photo_2024-09-08_12-13-32.jpg "Me")
+![Me](https://raw.githubusercontent.com/valentinstukov/rsschool-cv/refs/heads/gh-pages/photo_2024-09-08_12-13-32.jpg "Me")
 * Freelancer
 
 # About myself
